@@ -1,0 +1,15 @@
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.csproj.AssemblyReference.cache
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.AssemblyInfoInputs.cache
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.AssemblyInfo.cs
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.csproj.CoreCompileInputs.cache
+C:\Users\2022102020041\source\repos\datetime\datetime\bin\Debug\net6.0\datetime.exe
+C:\Users\2022102020041\source\repos\datetime\datetime\bin\Debug\net6.0\datetime.deps.json
+C:\Users\2022102020041\source\repos\datetime\datetime\bin\Debug\net6.0\datetime.runtimeconfig.json
+C:\Users\2022102020041\source\repos\datetime\datetime\bin\Debug\net6.0\datetime.dll
+C:\Users\2022102020041\source\repos\datetime\datetime\bin\Debug\net6.0\datetime.pdb
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.dll
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\refint\datetime.dll
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.pdb
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\datetime.genruntimeconfig.cache
+C:\Users\2022102020041\source\repos\datetime\datetime\obj\Debug\net6.0\ref\datetime.dll
